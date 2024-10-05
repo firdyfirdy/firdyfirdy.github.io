@@ -14,7 +14,7 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Firdy's Blogs # the main title
+title: Firdy # the main title
 
 tagline: My Personal notes # it will display as the sub-title
 
